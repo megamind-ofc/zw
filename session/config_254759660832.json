@@ -2,7 +2,7 @@
   "AUTO_VIEW_STATUS": "false",
   "AUTO_LIKE_STATUS": "true",
   "AUTO_REACT": "true",
-  "AUTO_RECORDING": "false",
+  "AUTO_RECORDING": "true",
   "ANTICALL": "true",
   "AUTO_LIKE_EMOJI": [
     "💋",
